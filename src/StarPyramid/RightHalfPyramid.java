@@ -1,4 +1,4 @@
-package Start;
+package StarPyramid;
 
 public class RightHalfPyramid {
 
