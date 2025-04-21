@@ -9,15 +9,17 @@ public class ReverseRightHalf {
         {
             for (int j = 1; j <= i; j++)
             {
-                System.out.print(j + "");
+                System.out.print(j + ""); //number
             }
+
+
             for (int j = 1; j <= row - i ; j++)
             {
-                System.out.print(" ");
+                System.out.print(" "); // space
             }
             for (int j = 1; j <= i; j++)
             {
-                System.out.print("*");
+                System.out.print("*"); // star
             }
             System.out.println();
         }
