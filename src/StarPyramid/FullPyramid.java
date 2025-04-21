@@ -8,7 +8,7 @@ public class FullPyramid {
 
         for(int i = 1; i <= row; i++, k = 0 )
         {
-            for(int space = 1; space <= row - i; space++)
+            for(int space = 1; space <= row - i;  space++)
             {
                 System.out.print("  ");
             }
