@@ -1,4 +1,4 @@
-package AlphabetPyramid;
+package Pyramid.AlphabetPyramid;
 
 public class RightHalfSameRow {
 

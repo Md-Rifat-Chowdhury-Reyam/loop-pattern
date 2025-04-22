@@ -1,4 +1,4 @@
-package StarPyramid;
+package Pyramid.StarPyramid;
 
 public class ReverseRightHalf {
 

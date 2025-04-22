@@ -1,4 +1,4 @@
-package NumberPyramid;
+package Pyramid.NumberPyramid;
 
 public class FloydTriangle {
 
